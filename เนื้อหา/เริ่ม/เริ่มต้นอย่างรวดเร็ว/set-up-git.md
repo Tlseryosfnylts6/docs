@@ -1,5 +1,5 @@
 ---
-title: Set up Git
+title: Set up 
 redirect_from:
   - /git-installation-redirect/
   - /linux-git-installation/
